@@ -25,5 +25,6 @@ navBar.addEventListener("click",function(){
 
 window.onscroll=()=>{
    
+   
    menuBar.classList.remove("navs");
 }
